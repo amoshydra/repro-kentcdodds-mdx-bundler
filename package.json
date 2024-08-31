@@ -1,5 +1,6 @@
 {
   "name": "repro-esbuild-node-module-resolution",
+  "type": "module",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",

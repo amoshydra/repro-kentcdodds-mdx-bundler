@@ -5,6 +5,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@esbuild-plugins/node-resolve": "^0.2.2",
     "esbuild": "^0.23.1"
   }
 }
